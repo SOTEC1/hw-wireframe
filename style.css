@@ -44,4 +44,13 @@ section{
 
 aside, footer {
   float: left;
+  margin-bottom: 20px;
+  padding: 20px;
+  clear: both;
+  width: 33%;
+}
+
+aside{
+  height: 200px;
+  margin-left: 30px;
 }
