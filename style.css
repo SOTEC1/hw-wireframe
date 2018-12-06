@@ -15,7 +15,7 @@ header, nav, section, aside, footer{
   background: #ebebeb
 }
 
-article{
+article, h3 {
   color: #ebebeb;
   background: #777;
 }
