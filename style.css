@@ -14,15 +14,25 @@ header, nav {
 header, nav, section, aside, footer{
   background: #ebebeb
 }
+section, article {
+clear: both;
+overflow: auto;
+text-align: center;
+padding: 10px;
+margin-bottom: 10px;
+}
 
 article, h3 {
   color: #ebebeb;
   background: #777;
 }
 
-h1, p {
+h3, p {
   background: #ebebeb;
   color: #777;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid black;
 }
 section{
   float: left;
