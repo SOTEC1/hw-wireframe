@@ -41,3 +41,7 @@ section{
   padding: 20px;
   margin-left: 30px;
 }
+
+aside, footer {
+  float: left;
+}
